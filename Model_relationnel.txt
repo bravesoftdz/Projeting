@@ -1,0 +1,14 @@
+Utilisateur (#ID_Utilisateur, Psaudo_Utilisateur, Email_Utilisateur, MDP_Utilisateur, Nom_Utilisateur, Prénom_Utilisateur, DateN_Utilisateur, Pays_Utilisateur, Grade_Utilisateur, Date_Inscription_Utilisateur);
+
+Cours (#ID_Cours, Nom_Cours, Volume_Horaire_Cours, Difficulter_Cours, Format_Cours, Certification_Cours);
+
+Examen (#ID_Examen, Nom_Examen, Nbr_Question, Durée_Examen);
+
+Parcours (#ID_Parcours, Nom_Parcours, Niveau_Parcours, Nom_Diplome_Parcours, Mode_Apprentisage_Parcours);
+
+Groupe (#ID_Groupe, Nom_Groupe, Nbr_Membre_Groupe, Date_Création_Groupe);
+
+Note(#Note,Remarque);
+
+Passage(#ID_Utilisateur, #ID_Examen, #ID_Note);
+

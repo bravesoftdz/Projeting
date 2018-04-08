@@ -1,0 +1,17 @@
+Les partie qu'on doit prendre en charge : 
+- Lancement des groupe, different spécialité et different mode de formation
+- Gestion des inscriptions et des étudiants
+- Gestion des notes par groupe et par module
+- Gestion des cours
+
+Sur un cas réel ou virtuel le travaille réalisé dois comporté au moin :
+1) Etude comparatif des différent solution possible
+2) Etablissement d'un schéma directeur (procédure)
+3) Conception d'un diagramme des classe UML
+4) Mapper le schéma relationnel sur un SGBD de votre choix (choix justifier)
+5) Peupler la base de donnée par un jeu d'essai correcte
+6) Ecrire une vingtène de requette utile dans la construction d'une application E-Learning
+7) Réalisé une interface pour visualisé les résultats par un language de programmation et le justifier
+
+Le travaille réalisé doit comporter un rapport d'environ 30 page utile (explique les differents choix et etape)
+L'application des interfaces avec la configuration necéssaire 
